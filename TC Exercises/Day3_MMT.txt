@@ -1,0 +1,16 @@
+16/04/2020
+================
+1) Go to https://www.makemytrip.com/
+2) Click Hotels
+3) Enter city as Goa, and choose Goa, India
+4) Enter Check in date as Next month 15th (May 15) and Check out as start date+5
+5) Click on ROOMS & GUESTS and click 2 Adults and one Children(age 12). Click Apply Button.
+6) Click Search button
+7) Select locality as Baga
+8) Select 5 start in Star Category under Select Filters
+9) Click on the first resulting hotel and go to the new window
+10) Print the Hotel Name 
+11) Click MORE OPTIONS link and Select 3Months plan and close
+12) Click on BOOK THIS NOW
+13) Print the Total Payable amount
+14) Close the browser  
