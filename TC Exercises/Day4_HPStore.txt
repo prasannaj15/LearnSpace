@@ -1,0 +1,14 @@
+1) Go to https://store.hp.com/in-en/
+2) Mouse over on Laptops menu and click on Pavilion
+3) Under SHOPPING OPTIONS -->Processor -->Select Intel Core i7
+4) Hard Drive Capacity -->More than 1TB
+5) Select Sort By: Price: Low to High
+6) Print the First resulting Product Name and Price
+7) Click on Add to Cart
+8) Click on Shopping Cart icon --> Click on View and Edit Cart
+9) Check the Shipping Option --> Check availability at Pincode
+10) Verify the order Total against the product price
+11) Proceed to Checkout if Order Total and Product Price matches
+12) Click on Place Order
+13) Capture the Error message and Print
+14) Close Browser
