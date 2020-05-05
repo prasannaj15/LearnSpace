@@ -1,0 +1,15 @@
+1) Go to https://www.zalando.com/
+2) Get the Alert text and print it
+3) Close the Alert box and click on Zalando.uk
+4) Click Women--> Clothing and click Coat 
+5) Choose Material as cotton (100%) and Length as thigh-length
+6) Click on Q/S designed by MANTEL - Parka coat
+7) Check the availability for Color as Olive and Size as 'M'
+8) If the previous preference is not available, check  availability for Color Navy and Size 'M'
+9) Add to bag only if Standard Delivery is free
+10) Mouse over on Your Bag and Click on "Go to Bag"
+11) Capture the Estimated Deliver Date and print
+12) Mouse over on FREE DELIVERY & RETURNS*, get the tool tip text and print
+13) Click on Start chat in the Start chat and go to the new window
+14) Enter you first name and a dummy email and click Start Chat
+15) Type Hi, click Send and print thr reply message and close the chat window.
